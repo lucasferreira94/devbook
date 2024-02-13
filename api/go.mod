@@ -1,4 +1,4 @@
-module github.com/lucasferreira94/devbook/api.git
+module github.com/lucasferreira94/devbook/tree/main/api
 
 go 1.21.1
 

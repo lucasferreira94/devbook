@@ -1,10 +1,11 @@
 package main
 
 import (
-	"api/src/router"
 	"fmt"
 	"log"
 	"net/http"
+
+	"github.com/lucasferreira94/devbook/tree/main/api/src/router"
 )
 
 func main() {
